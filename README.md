@@ -8,10 +8,8 @@
 Place `DiscordPyMD.py` in a folder and import it in the Discord Bot file.
 
 ```py
-import DiscordPyMD.DiscordPyMD ad dpymd
+import <folder.name>.DiscordPyMD ad dpymd
 ```
-
-![DiscordPyMD Tree](https://image.noelshack.com/fichiers/2020/15/2/1586272040-capture.png)
 
 You will get access to it, and you can now use-it !
 
