@@ -5,13 +5,14 @@
 
 # Use
 
-Place `DiscordPyMD.py` in a folder and import it in the Discord Bot file.
+Import `DiscordPyMD.py` into the Discord Bot file.
 
 ```py
-import <folder.name>.DiscordPyMD ad dpymd
+import DiscordPyMD.DiscordPyMD ad dpymd
+# {ad dpymd} is obviously optional.
 ```
 
-You will get access to it, and you can now use-it !
+### You will get access to it, you now able to use it !
 
 ![Functions](https://image.noelshack.com/fichiers/2020/15/2/1586273069-capture.png)
 
@@ -27,7 +28,7 @@ List of functions :
 - quote_all <text>
 ```
 
-# Examples
+## Examples
 
 ```py
 await ctx.send(bold("Bold is c00l !"))
