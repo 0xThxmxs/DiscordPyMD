@@ -27,3 +27,17 @@ List of functions :
 - quote <text>
 - quote_all <text>
 ```
+
+
+# Examples
+
+```py
+await ctx.send(bold("Bold is c00l !"))
+```
+```py
+await ctx.send(quote("I have a headache.") + "Put yourself in rice.")
+
+# OR
+
+await ctx.send("{} Put yourself in rice.".format(quote("I have a headache.")))
+```
