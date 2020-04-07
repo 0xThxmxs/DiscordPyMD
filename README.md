@@ -7,8 +7,8 @@ A little Python module wich allow you to call functions for discord.py markdown.
 Place `DiscordPyMD.py` in a folder and import it in the Discord Bot file.
 
 ````py
-import DiscordPyMD.DiscordPyMD ad dpymd
-```
+import DiscordPyMD.DiscordPyMD ad dpymd```
+
 
 ![DiscordPyMD Tree](https://image.noelshack.com/fichiers/2020/15/2/1586272040-capture.png)
 
