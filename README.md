@@ -5,5 +5,4 @@ A little Python module wich allow you to call functions for discord.py markdown.
 # Use
 
 Place `DiscordPyMD.py` in a folder
-https://www.noelshack.com/2020-15-2-1586272040-capture.png
 ![DiscordPyMD Tree](https://image.noelshack.com/fichiers/2020/15/2/1586272040-capture.png)
