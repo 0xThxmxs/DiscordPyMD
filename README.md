@@ -13,7 +13,7 @@ You will get access to it, and you can now use-it !
 ```
 List of functions :
 - bold <text>
-- code <text>
+- code <text> <language - optional>
 - code_line <text>
 - italics <text>
 - strikethrough <text>
