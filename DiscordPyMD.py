@@ -23,8 +23,8 @@ def underline(string):
 
 
 def quote(string):
-	return "> {}\n".format(string)
+	return "> {}".format(string)
 
 
 def quote_all(string):
-	return ">>> {}\n".format(string)
+	return ">>> {}".format(string)
