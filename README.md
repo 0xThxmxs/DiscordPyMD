@@ -3,8 +3,6 @@
 
 [![Python 3.X](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/downloads/release/python-380/)
 
-[![.dpymd_try](https://i.gyazo.com/7386ef0aacb95191700e6cc80916bddf.gif)](https://gyazo.com/7386ef0aacb95191700e6cc80916bddf)
-
 # Use
 
 Import `DiscordPyMD.py` into the Discord Bot file.
