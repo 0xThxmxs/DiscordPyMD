@@ -16,7 +16,7 @@ import DiscordPyMD.DiscordPyMD as dpymd
 
 ### You will get access to it, you now able to use it !
 
-![Functions](https://image.noelshack.com/fichiers/2020/15/2/1586273069-capture.png)
+![Functions](https://0xthxmxs.github.io/repo/img/dpymd.png)
 
 ```
 List of functions :
