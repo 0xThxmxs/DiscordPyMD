@@ -14,10 +14,10 @@ import DiscordPyMD.DiscordPyMD as dpymd
 
 ### You will get access to it, you now able to use it !
 
-![dpymd](https://0xthxmxs.github.io/repo/img/dpymd.png)
+![Functions](https://0xthxmxs.github.io/repo/img/project/dpymd/functions.png)
 
 ```
-List of functions :
+Functions :
 - bold <text>
 - code <text> <language - optional>
 - code_line <text>
