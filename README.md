@@ -1,9 +1,8 @@
-# DiscordPyMD
-### A little Python module wich allow you to call functions for discord.py markdown.
+## DiscordPyMD is a little Python module wich allow you to call functions for discord.py markdown.
 
 [![Python 3.X](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/downloads/release/python-380/)
 
-# Use
+## Use
 
 Import `DiscordPyMD.py` into the Discord Bot file.
 
