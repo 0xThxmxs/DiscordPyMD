@@ -7,8 +7,7 @@
 Import `DiscordPyMD.py` into the Discord Bot file.
 
 ```py
-import DiscordPyMD.DiscordPyMD as dpymd
-# {as dpymd} is obviously optional.
+import DiscordPyMD.DiscordPyMD as dpymd # {as dpymd} is obviously optional.
 ```
 
 ### You will get access to it, you now able to use it !
