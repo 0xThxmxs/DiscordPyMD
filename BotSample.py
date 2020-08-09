@@ -24,4 +24,4 @@ async def dpymd_try(ctx):
 	# await ctx.send(dpymd.)
 
 
-bot.run("Njk3MDg5NzA1NzUzNDQ0NDUy.XoyOiA.KrqEn4TA3vt7vVNbuV_PMgJw9lA")
+bot.run("{bot.token}")
